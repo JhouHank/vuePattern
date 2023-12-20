@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as n}from"./index-1b5dc901.js";const s={},o=n("h2",{class:"text-center"},"Render Functions 渲染函式",-1),r=[o];function a(_,d){return t(),c("div",null,r)}const l=e(s,[["render",a]]);export{l as default};
